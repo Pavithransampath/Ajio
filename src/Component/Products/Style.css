@@ -1,0 +1,32 @@
+.mensbrand {
+    color: #878787;
+    font-weight: bold;
+    /* font: 14px Roboto, Arial, sans-serif; */
+}
+
+.mensname {
+    color: #212121;
+    font: 14px Roboto, Arial, sans-serif;
+}
+
+
+
+
+.spaprice1 {
+    color: #878787;
+    text-decoration: line-through;
+    margin-left: 5px;
+    font-weight: 600;
+}
+
+.spaprice {
+    font-weight: 600;
+}
+
+.head1 {
+    position: absolute;
+}
+
+header{
+    position: absolute;
+}
